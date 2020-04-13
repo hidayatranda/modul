@@ -31,7 +31,7 @@
 						<a target="_blank" rel="nofollow" href="https://undraw.co/">Browse Illustrations on unDraw
 							&rarr;</a>
 					</div>
-					<a href="<?php echo base_url('views/kelas/python.php'); ?>"><button
+					<a href="<?php echo site_url('kelas/python'); ?>"><button
 						style="width:100px;  margin-left:36%; margin-bottom:40px; background-color:#35c75a; color:#ffffff;">PILIH</button></a>
 				</div>
 			</div>
@@ -55,7 +55,7 @@
 						<a target="_blank" rel="nofollow" href="https://undraw.co/">Browse Illustrations on unDraw
 							&rarr;</a>
 					</div>
-					<a href=""><button style="width:100px; margin-left:36%; margin-bottom:40px; background-color:#35c75a; color:#ffffff;">PILIH</button></a> 
+					<a href=""><button style="width:100px; margin-left:36%; margin-bottom:40px; background-color:#35c75a; color:#ffffff;">PILIH</button></a>
 				</div>
 			</div>
 			<div class="col-lg-4 mb-4">
